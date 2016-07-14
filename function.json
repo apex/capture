@@ -1,0 +1,6 @@
+{
+  "description": "Capture URL screenshots as an image",
+  "memory": 1024,
+  "timeout": 30,
+  "runtime": "nodejs4.3"
+}
